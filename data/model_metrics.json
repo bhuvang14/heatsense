@@ -1,0 +1,64 @@
+{
+  "n_folds": 5,
+  "grouping": "GroupKFold by ward_id (whole wards held out, no random splits)",
+  "n_samples": 70910,
+  "n_wards": 243,
+  "features": [
+    "ndvi",
+    "ndbi",
+    "ndwi",
+    "building_density",
+    "road_density",
+    "population"
+  ],
+  "folds": [
+    {
+      "fold": 1,
+      "n_train": 56703,
+      "n_val": 14207,
+      "n_wards_val": 48,
+      "r2": 0.9597,
+      "rmse_c": 0.8936
+    },
+    {
+      "fold": 2,
+      "n_train": 56734,
+      "n_val": 14176,
+      "n_wards_val": 48,
+      "r2": 0.9421,
+      "rmse_c": 0.8205
+    },
+    {
+      "fold": 3,
+      "n_train": 56734,
+      "n_val": 14176,
+      "n_wards_val": 49,
+      "r2": 0.9391,
+      "rmse_c": 0.801
+    },
+    {
+      "fold": 4,
+      "n_train": 56734,
+      "n_val": 14176,
+      "n_wards_val": 49,
+      "r2": 0.9478,
+      "rmse_c": 0.8598
+    },
+    {
+      "fold": 5,
+      "n_train": 56735,
+      "n_val": 14175,
+      "n_wards_val": 49,
+      "r2": 0.9572,
+      "rmse_c": 0.8447
+    }
+  ],
+  "overall_r2": 0.9528,
+  "overall_rmse_c": 0.8445,
+  "data_source": "synthetic",
+  "city_ndvi_slope_c_per_unit": -13.3688,
+  "city_ndvi_slope_r2": 0.5251,
+  "cooling_fallback_rule": "city-wide slope when n<100 cells, R2<0.1, or slope>=0",
+  "cooling_fallback_wards": 129,
+  "cooling_label": "Correlational scenario, not a causal or field-measured result."
+}

@@ -1,0 +1,31 @@
+{
+  "city": "Bengaluru",
+  "claim": "A spatially validated planting prioritiser that ranks where a tree cools most for the most exposed people.",
+  "data_source": "synthetic",
+  "ward_set": "bbmp_243_real (KGIS/DataMeet 243-ward BBMP boundaries)",
+  "n_wards": 243,
+  "center": [
+    12.97,
+    77.59
+  ],
+  "bbox": {
+    "lon_min": 77.45,
+    "lon_max": 77.78,
+    "lat_min": 12.83,
+    "lat_max": 13.14
+  },
+  "grid_size_m": 100,
+  "summer_window": [
+    "03-01",
+    "05-31"
+  ],
+  "overall_r2": 0.9528,
+  "overall_rmse_c": 0.8445,
+  "grouping": "GroupKFold by ward_id (whole wards held out, no random splits)",
+  "n_folds": 5,
+  "city_ndvi_slope_c_per_unit": -13.3688,
+  "summary_source": "template",
+  "generated_at": "2026-11-14T14:21:41+00:00",
+  "footer": "LST is surface heat, not felt heat. Cooling estimates are correlational, not field-measured.",
+  "cooling_label": "Correlational scenario, not a causal or field-measured result."
+}

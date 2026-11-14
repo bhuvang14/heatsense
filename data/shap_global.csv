@@ -1,0 +1,7 @@
+feature,mean_abs_shap_c,share
+building_density,1.5971,0.3669
+ndbi,1.5526,0.3567
+ndvi,0.7651,0.1758
+road_density,0.2422,0.0556
+ndwi,0.1135,0.0261
+population,0.0822,0.0189

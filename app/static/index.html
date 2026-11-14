@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HeatSense Bengaluru — planting priorities</title>
+  <link rel="stylesheet" href="/static/vendor/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>HeatSense <span class="city">Bengaluru</span></h1>
+      <p class="claim">A spatially validated planting prioritiser that ranks where a tree cools most for the most exposed people.</p>
+    </div>
+    <button id="about-btn" class="ghost-btn" type="button">About the model</button>
+  </header>
+
+  <div id="synthetic-banner" class="banner hidden" role="status">
+    DEMO MODE: SYNTHETIC SAMPLE DATA, not real measurements.
+  </div>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <h2>Layers</h2>
+        <label class="toggle"><input type="checkbox" id="spots-toggle" checked />
+          <span>Top-10 planting spots</span></label>
+        <label class="toggle"><input type="checkbox" id="equity-toggle" />
+          <span>Equity-priority ward outlines</span></label>
+      </section>
+
+      <section class="panel" id="whatif-panel">
+        <h2>What-if: add vegetation</h2>
+        <p id="whatif-ward" class="muted">Select a ward on the map</p>
+        <label class="slider-label" for="ndvi-slider">NDVI increase:
+          <strong id="ndvi-value">0.10</strong></label>
+        <input type="range" id="ndvi-slider" min="0" max="0.5" step="0.05" value="0.1" disabled />
+        <p class="whatif-result" id="whatif-cooling">Predicted cooling: —</p>
+        <p class="whatif-note" id="whatif-note"></p>
+        <p class="tiny">Correlational scenario, not a causal or field-measured result.</p>
+      </section>
+
+      <section class="panel">
+        <div class="tabs" role="tablist">
+          <button class="tab active" data-tab="hottest" type="button">Top 10 hottest</button>
+          <button class="tab" data-tab="planting" type="button">Top 10 planting</button>
+        </div>
+        <ol id="list-hottest" class="rank-list"></ol>
+        <ol id="list-planting" class="rank-list hidden"></ol>
+      </section>
+    </aside>
+
+    <div class="map-wrap">
+      <div id="map" aria-label="Bengaluru ward heat map"></div>
+      <div id="legend" class="legend">
+        <span class="legend-title">Mean summer LST (°C)</span>
+        <div class="legend-bar"></div>
+        <div class="legend-ticks"><span id="legend-min"></span><span id="legend-max"></span></div>
+      </div>
+      <p class="map-fallback hidden" id="map-fallback">
+        Basemap tiles unavailable — ward shapes are still shown on a plain background.
+      </p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    LST is surface heat, not felt heat. Cooling estimates are correlational, not field-measured.
+  </footer>
+
+  <dialog id="about-dialog">
+    <form method="dialog" class="dialog-head">
+      <h2>About the model</h2>
+      <button class="ghost-btn" value="close" type="submit">Close</button>
+    </form>
+    <div id="about-body"></div>
+  </dialog>
+
+  <script src="/static/vendor/leaflet/leaflet.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

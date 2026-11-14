@@ -1,0 +1,105 @@
+{
+  "data_source": "synthetic",
+  "wards": [
+    {
+      "rank": 1,
+      "ward_id": "135",
+      "ward_name": "Okalipuram",
+      "lst_mean": 46.57,
+      "ndvi_mean": 0.201,
+      "population": 44650,
+      "pop_density": 54219.2,
+      "equity_flag": true
+    },
+    {
+      "rank": 2,
+      "ward_id": "134",
+      "ward_name": "Subhash Nagar",
+      "lst_mean": 46.35,
+      "ndvi_mean": 0.203,
+      "population": 80610,
+      "pop_density": 61186.4,
+      "equity_flag": true
+    },
+    {
+      "rank": 3,
+      "ward_id": "130",
+      "ward_name": "Bharathi Nagar",
+      "lst_mean": 46.33,
+      "ndvi_mean": 0.077,
+      "population": 21903,
+      "pop_density": 32802.0,
+      "equity_flag": true
+    },
+    {
+      "rank": 4,
+      "ward_id": "133",
+      "ward_name": "Gandhinagar",
+      "lst_mean": 46.06,
+      "ndvi_mean": 0.171,
+      "population": 123753,
+      "pop_density": 64346.3,
+      "equity_flag": true
+    },
+    {
+      "rank": 5,
+      "ward_id": "139",
+      "ward_name": "Dayananda Nagar",
+      "lst_mean": 46.05,
+      "ndvi_mean": 0.127,
+      "population": 30041,
+      "pop_density": 67431.3,
+      "equity_flag": true
+    },
+    {
+      "rank": 6,
+      "ward_id": "137",
+      "ward_name": "Cottonpete",
+      "lst_mean": 45.98,
+      "ndvi_mean": 0.112,
+      "population": 47586,
+      "pop_density": 62864.4,
+      "equity_flag": true
+    },
+    {
+      "rank": 7,
+      "ward_id": "166",
+      "ward_name": "Chalavadipalya",
+      "lst_mean": 45.47,
+      "ndvi_mean": 0.147,
+      "population": 20111,
+      "pop_density": 45694.0,
+      "equity_flag": true
+    },
+    {
+      "rank": 8,
+      "ward_id": "128",
+      "ward_name": "Vasanth Nagar",
+      "lst_mean": 45.27,
+      "ndvi_mean": 0.258,
+      "population": 191498,
+      "pop_density": 44028.3,
+      "equity_flag": true
+    },
+    {
+      "rank": 9,
+      "ward_id": "143",
+      "ward_name": "Shivanagara",
+      "lst_mean": 45.23,
+      "ndvi_mean": 0.2,
+      "population": 29216,
+      "pop_density": 39744.1,
+      "equity_flag": true
+    },
+    {
+      "rank": 10,
+      "ward_id": "80",
+      "ward_name": "Pulikeshinagar",
+      "lst_mean": 45.1,
+      "ndvi_mean": 0.168,
+      "population": 76001,
+      "pop_density": 34272.6,
+      "equity_flag": true
+    }
+  ]
+}

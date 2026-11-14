@@ -1,0 +1,1217 @@
+{
+ "135": {
+  "key": "eac6c5625eed056d4a3fff0196501d87f0e93226",
+  "summary": "Okalipuram averages 46.6 C of summer surface heat, with mean NDVI 0.20 and about 44,650 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "134": {
+  "key": "fe71f8500e7e42ce9ba620fa584b1de8d203f507",
+  "summary": "Subhash Nagar averages 46.4 C of summer surface heat, with mean NDVI 0.20 and about 80,610 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "130": {
+  "key": "6fe255fa1a17c4bfa4f962397e093a2e8e8ead83",
+  "summary": "Bharathi Nagar averages 46.3 C of summer surface heat, with mean NDVI 0.08 and about 21,903 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "133": {
+  "key": "5bb8a6569b51e953e1847e3ef90247c9f0e0d229",
+  "summary": "Gandhinagar averages 46.1 C of summer surface heat, with mean NDVI 0.17 and about 123,753 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "139": {
+  "key": "c2ce7045ff9c11b7f5e8bc40e32f612ef4fac0aa",
+  "summary": "Dayananda Nagar averages 46.0 C of summer surface heat, with mean NDVI 0.13 and about 30,041 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "137": {
+  "key": "ca42d0890a5232ea7400b32ae3803a363fed3b7c",
+  "summary": "Cottonpete averages 46.0 C of summer surface heat, with mean NDVI 0.11 and about 47,586 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "166": {
+  "key": "b4eab14aabe243e154dbc60eb426f91522f04929",
+  "summary": "Chalavadipalya averages 45.5 C of summer surface heat, with mean NDVI 0.15 and about 20,111 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "128": {
+  "key": "37ee519f1ff4ea56caca33e4b57f67371bd2cf11",
+  "summary": "Vasanth Nagar averages 45.3 C of summer surface heat, with mean NDVI 0.26 and about 191,498 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "143": {
+  "key": "fa6034e3dcb5462c91626f093e6b8bddf525c2aa",
+  "summary": "Shivanagara averages 45.2 C of summer surface heat, with mean NDVI 0.20 and about 29,216 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "80": {
+  "key": "c1cc0669b0cb73ec5a9b91e1221b59f1be2376f7",
+  "summary": "Pulikeshinagar averages 45.1 C of summer surface heat, with mean NDVI 0.17 and about 76,001 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "138": {
+  "key": "5be1c428d41d4738a6db3aa60ce8b65d4bd9e07b",
+  "summary": "Chickpete averages 45.1 C of summer surface heat, with mean NDVI 0.32 and about 37,871 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "136": {
+  "key": "3f68ea32da2d0b951d31ffde7f09025ccdb328f6",
+  "summary": "Binnipete averages 45.0 C of summer surface heat, with mean NDVI 0.13 and about 45,101 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "165": {
+  "key": "85690d5635a2b1099dae442bc8edbeb59c876513",
+  "summary": "Chamrajapet averages 45.0 C of summer surface heat, with mean NDVI 0.22 and about 77,369 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "142": {
+  "key": "8e5a4294bff49a532a8a8d7cbb54d6d66d15cd15",
+  "summary": "Sriramamandir averages 44.9 C of summer surface heat, with mean NDVI 0.17 and about 49,747 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "127": {
+  "key": "3363133afd63b8b86920f1a4eb2964f5ad280f10",
+  "summary": "Jayamahal averages 44.8 C of summer surface heat, with mean NDVI 0.17 and about 49,404 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "181": {
+  "key": "dad62a40ac62b9607f83d98ddbb4aae4486297d3",
+  "summary": "Shantala Nagar averages 44.1 C of summer surface heat, with mean NDVI 0.28 and about 136,574 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "182": {
+  "key": "248aea00db2258be18b67ed3c65b8095fd27c526",
+  "summary": "Shanthi Nagar averages 43.9 C of summer surface heat, with mean NDVI 0.40 and about 45,005 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "141": {
+  "key": "c3520a78d5c36c2834ccebed361fc68b9e160db5",
+  "summary": "Rajaji Nagar averages 43.8 C of summer surface heat, with mean NDVI 0.26 and about 26,386 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "183": {
+  "key": "203c118ec15cd443ddb8f1f031261f96a1633e22",
+  "summary": "Neelasandra averages 43.7 C of summer surface heat, with mean NDVI 0.28 and about 92,559 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "126": {
+  "key": "4b0837f79d89adf31a9e582993429047a9132fb1",
+  "summary": "Ramaswamy Palya averages 43.6 C of summer surface heat, with mean NDVI 0.16 and about 36,440 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "129": {
+  "key": "292d3b1597d01bf769defa3b4f2ab268344a32a2",
+  "summary": "Sampangiram Nagar averages 43.6 C of summer surface heat, with mean NDVI 0.42 and about 88,191 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "167": {
+  "key": "b25d3c0fd33bc1b1da8fe3c31fd636989f40a5d4",
+  "summary": "Jagajivanaram Nagar averages 43.6 C of summer surface heat, with mean NDVI 0.21 and about 29,750 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "103": {
+  "key": "de8d6a1e63fa9380c69c4fe243a9dc1742323f41",
+  "summary": "Maruthi Seva Nagar averages 43.6 C of summer surface heat, with mean NDVI 0.20 and about 85,228 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "144": {
+  "key": "33b2c69aca626cdefe88b8c7db9618f142e7bf2a",
+  "summary": "Basaveshwara Nagar averages 43.5 C of summer surface heat, with mean NDVI 0.15 and about 20,291 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "79": {
+  "key": "537ca0577f71b74b06020d7345e7841b75a99046",
+  "summary": "Sagayarapuram averages 43.5 C of summer surface heat, with mean NDVI 0.17 and about 25,782 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "184": {
+  "key": "2cf26fee5fb83fbe2e64d42c9a8dee5406e6211d",
+  "summary": "Vannarapete averages 43.5 C of summer surface heat, with mean NDVI 0.20 and about 27,016 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "102": {
+  "key": "3a1d3e00cfe8b056761c10ca54b385f386474a46",
+  "summary": "Lingarajapura averages 43.5 C of summer surface heat, with mean NDVI 0.21 and about 51,900 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "78": {
+  "key": "1f142834a2d64321459768498150b90f50412585",
+  "summary": "S K Garden averages 43.4 C of summer surface heat, with mean NDVI 0.20 and about 26,842 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "211": {
+  "key": "8320a895f6edcd8b4378412f4039d75d40fa3627",
+  "summary": "Hanumanth Nagar averages 43.3 C of summer surface heat, with mean NDVI 0.29 and about 43,896 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "170": {
+  "key": "2c09a0863c74b8d415164113b053dac64475f19f",
+  "summary": "Azad Nagar averages 43.3 C of summer surface heat, with mean NDVI 0.30 and about 34,107 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "140": {
+  "key": "233afac4fd1a40fdd294ef9b0cc08f75cfb6fc55",
+  "summary": "Prakash Nagar averages 43.3 C of summer surface heat, with mean NDVI 0.22 and about 20,364 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "132": {
+  "key": "c0fd27c2da576ee722c841a3db05f3423fa3ef74",
+  "summary": "Dattatreya Temple averages 43.2 C of summer surface heat, with mean NDVI 0.17 and about 44,664 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "172": {
+  "key": "48feebc63cc95bff3ce1d46463115f8e0a8ccf28",
+  "summary": "Dharmaraya Swamy Temple Ward averages 43.2 C of summer surface heat, with mean NDVI 0.49 and about 49,215 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "188": {
+  "key": "e4693453b2ad060fa46f560536a5dad881c215fc",
+  "summary": "Lakkasandra averages 43.2 C of summer surface heat, with mean NDVI 0.30 and about 70,784 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "185": {
+  "key": "08aaf2b76327475502b77a986cc0c125980db4ab",
+  "summary": "Ejipura averages 43.1 C of summer surface heat, with mean NDVI 0.33 and about 35,900 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "156": {
+  "key": "8ef8eaffc768a46d249f8a14201e659dc5382deb",
+  "summary": "Kempapura Agrahara averages 43.1 C of summer surface heat, with mean NDVI 0.13 and about 18,966 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "119": {
+  "key": "e85f1686918c63468c54382c30b631c9c3e99eed",
+  "summary": "New Bayappanahalli averages 42.6 C of summer surface heat, with mean NDVI 0.22 and about 120,710 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "177": {
+  "key": "3ea600deb51e87b528a449b66e547f9f75939264",
+  "summary": "Hombegowda Nagara averages 42.6 C of summer surface heat, with mean NDVI 0.52 and about 31,134 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "24": {
+  "key": "af8322e8a26c990856056763e5c80bb7423bc59a",
+  "summary": "Rajagopal Nagar averages 42.5 C of summer surface heat, with mean NDVI 0.20 and about 32,891 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "63": {
+  "key": "9f58b32d78bf416f75e076d645cb85a8640b81d4",
+  "summary": "Gayithri Nagar averages 42.5 C of summer surface heat, with mean NDVI 0.27 and about 28,200 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "173": {
+  "key": "292b3436582fdf573efa8c742cd446ae0ca6367f",
+  "summary": "Sunkenahalli averages 42.3 C of summer surface heat, with mean NDVI 0.33 and about 50,485 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.6 C less surface heat here.",
+  "source": "template"
+ },
+ "65": {
+  "key": "b91d443480440655d6d4940513cb7af97d255db8",
+  "summary": "Rajamahal Guttahalli averages 42.2 C of summer surface heat, with mean NDVI 0.37 and about 41,571 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "41": {
+  "key": "be92de5fa35c5f07383ad7decf74b74d7a9f59e7",
+  "summary": "Peenya averages 42.2 C of summer surface heat, with mean NDVI 0.25 and about 59,687 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "194": {
+  "key": "32d238fe45fba24490db25cc91fd69513dbc15ba",
+  "summary": "Gurappanapalya averages 42.2 C of summer surface heat, with mean NDVI 0.51 and about 18,116 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "146": {
+  "key": "3e0d42c03ac2036c143a4d82b479a23b25c2e535",
+  "summary": "Dr. Raj Kumar Ward averages 42.1 C of summer surface heat, with mean NDVI 0.19 and about 61,600 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "168": {
+  "key": "12ea30fc372fe661c56c8cbf18690d909a0c01c6",
+  "summary": "Padarayanapura averages 42.1 C of summer surface heat, with mean NDVI 0.32 and about 19,248 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "187": {
+  "key": "d5648221e59aee73eba8eb0069a70c22dc9261b5",
+  "summary": "Adugodi averages 42.1 C of summer surface heat, with mean NDVI 0.35 and about 97,206 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "189": {
+  "key": "07219429ffec6222a51189d1c23cedae67653f1e",
+  "summary": "Suddagunte Palya averages 41.8 C of summer surface heat, with mean NDVI 0.44 and about 61,651 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.4 C less surface heat here.",
+  "source": "template"
+ },
+ "131": {
+  "key": "a5dab0e7976f92f2addb3d3f5a5bb07e2fa31960",
+  "summary": "Ulsoor averages 41.7 C of summer surface heat, with mean NDVI 0.09 and about 29,470 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "179": {
+  "key": "1fb5ce3ab21a2241702c8c0c3f398e84ee6ee26d",
+  "summary": "Jogupalya averages 41.6 C of summer surface heat, with mean NDVI 0.16 and about 34,898 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here.",
+  "source": "template"
+ },
+ "77": {
+  "key": "dd915a5a98047f0a030acb0577f30108d8741022",
+  "summary": "Devara Jeevanahalli averages 41.6 C of summer surface heat, with mean NDVI 0.28 and about 9,672 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "42": {
+  "key": "9705ae89b48204809c3b1929a17ac15730afdd9a",
+  "summary": "Lakshmi Devi Nagar averages 41.3 C of summer surface heat, with mean NDVI 0.26 and about 13,492 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "210": {
+  "key": "71f55cc3140b81a3a6efcc10df86a287bebe2930",
+  "summary": "Basavanagudi averages 41.3 C of summer surface heat, with mean NDVI 0.41 and about 36,694 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.2 C less surface heat here.",
+  "source": "template"
+ },
+ "212": {
+  "key": "ef24947df88f059513f2b3a1ef2120eeacab0c69",
+  "summary": "Srinivasa Nagar averages 41.3 C of summer surface heat, with mean NDVI 0.37 and about 17,048 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "51": {
+  "key": "d0b835a7d33938f08c0ba11c3f4e3e8d727e601a",
+  "summary": "Nagapura averages 41.3 C of summer surface heat, with mean NDVI 0.30 and about 45,029 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "169": {
+  "key": "7cbf97b90bb16ee23826c4ffefcfedfea5b0c92a",
+  "summary": "Devaraj Urs Nagar averages 41.3 C of summer surface heat, with mean NDVI 0.29 and about 11,624 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "76": {
+  "key": "e117110b8010bf4de9b9545a28d8777a918c3aa3",
+  "summary": "Muneshwara Nagar averages 41.3 C of summer surface heat, with mean NDVI 0.27 and about 17,932 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "178": {
+  "key": "06b99bcfc47d1e3d3c8bb30c5b9d83b57de2cb6f",
+  "summary": "Domlur averages 41.2 C of summer surface heat, with mean NDVI 0.15 and about 76,525 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "186": {
+  "key": "7aa677d33a6e536838739b3ea63e5cb92964867c",
+  "summary": "Koramangala averages 41.1 C of summer surface heat, with mean NDVI 0.35 and about 111,710 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "97": {
+  "key": "be4f1214887fc08b19dfd7101ca4ec0d6b8e6167",
+  "summary": "Venkateshpura averages 40.9 C of summer surface heat, with mean NDVI 0.22 and about 24,675 residents, and is flagged for heat-equity priority: hot, dense and low in green cover. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "190": {
+  "key": "8abff62ef6c5a934002ae0aca0667a2ea3e48adb",
+  "summary": "Madivala averages 40.9 C of summer surface heat, with mean NDVI 0.37 and about 39,589 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "145": {
+  "key": "c3273b59600fb0100514c6da1f1b5d2ba0fa694a",
+  "summary": "Kamakshipalya averages 40.8 C of summer surface heat, with mean NDVI 0.23 and about 14,695 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "120": {
+  "key": "3750d2813a935e581abfdb28b49a628f32d5302c",
+  "summary": "Hoysala Nagar averages 40.7 C of summer surface heat, with mean NDVI 0.23 and about 54,903 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.2 C less surface heat here.",
+  "source": "template"
+ },
+ "176": {
+  "key": "5074404d9369aebaa81b76f6ebc5ed8dffe182f3",
+  "summary": "Someshwara Nagar averages 40.7 C of summer surface heat, with mean NDVI 0.45 and about 43,825 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "157": {
+  "key": "9202b7bea3a574986e8fe91f1370dacb0cc03d79",
+  "summary": "Vijayanagar averages 40.7 C of summer surface heat, with mean NDVI 0.24 and about 24,603 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "43": {
+  "key": "3d5f55e3c8d9e9befd91989ea95c4f8df41025c7",
+  "summary": "Ranadheera Kanteerava averages 40.7 C of summer surface heat, with mean NDVI 0.31 and about 12,264 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.5 C less surface heat here.",
+  "source": "template"
+ },
+ "158": {
+  "key": "30ea99d4b12c1a413e6978343658cedf831839bb",
+  "summary": "Hosahalli averages 40.5 C of summer surface heat, with mean NDVI 0.32 and about 21,619 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "195": {
+  "key": "61c796c77022e5b00b9c16d7a543603eb0f37509",
+  "summary": "Tilak Nagar averages 40.3 C of summer surface heat, with mean NDVI 0.50 and about 27,623 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "171": {
+  "key": "9ad112feae3725c468df3c68c3467bcfe3dd938f",
+  "summary": "Sudham Nagara averages 40.3 C of summer surface heat, with mean NDVI 0.65 and about 22,676 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "160": {
+  "key": "babb1d2267a116af58bbfeeb1026bd91a2fae67b",
+  "summary": "Bapuji Nagar averages 40.2 C of summer surface heat, with mean NDVI 0.21 and about 9,986 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "213": {
+  "key": "f37d9b57bf6019c80312c29be0f138443c134853",
+  "summary": "Srinagar averages 40.2 C of summer surface heat, with mean NDVI 0.32 and about 22,726 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "53": {
+  "key": "d2dfc4730e8cded0c66ea3eec953b6c6803b0857",
+  "summary": "Nandini Layout averages 40.1 C of summer surface heat, with mean NDVI 0.35 and about 21,245 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "64": {
+  "key": "0ffcb90232b0001b4831a5bbbbd20bbc30aae286",
+  "summary": "Kadu Malleshwara averages 40.1 C of summer surface heat, with mean NDVI 0.25 and about 40,564 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "191": {
+  "key": "af2e34c1c1ed42b4fe61981db2ff26c9b8e37068",
+  "summary": "Jakkasandra averages 40.0 C of summer surface heat, with mean NDVI 0.43 and about 38,976 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "180": {
+  "key": "2bc0a5fb4cd6af2f922dc6300f4c06865972df5b",
+  "summary": "Agaram averages 40.0 C of summer surface heat, with mean NDVI 0.24 and about 318,894 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "98": {
+  "key": "251fd65ea40eb68da582d49ad710bf169ef3c9af",
+  "summary": "Kacharkanahalli averages 39.9 C of summer surface heat, with mean NDVI 0.24 and about 59,819 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.5 C less surface heat here.",
+  "source": "template"
+ },
+ "200": {
+  "key": "afd10ee2b0c7a2043572009a5e45e0095fb68df0",
+  "summary": "Yediyur averages 39.9 C of summer surface heat, with mean NDVI 0.44 and about 31,721 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "159": {
+  "key": "4b39dbbda2d9062c0715bc2bfbf9a9e98c11ccf8",
+  "summary": "Hampi Nagar averages 39.9 C of summer surface heat, with mean NDVI 0.28 and about 25,139 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "147": {
+  "key": "d0ae72f4c3905ff6d7924fb55a17e8e09860b676",
+  "summary": "Agrahara Dasarahalli averages 39.9 C of summer surface heat, with mean NDVI 0.24 and about 19,743 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "118": {
+  "key": "aec24e133c996d01522a79b0398a5f933ceeff70",
+  "summary": "Lal Bahadur Nagar averages 39.8 C of summer surface heat, with mean NDVI 0.21 and about 156,336 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "117": {
+  "key": "bd5e027b4cd8fe2f06d4ff28ca81ac6350393fad",
+  "summary": "C V Raman Nagar averages 39.8 C of summer surface heat, with mean NDVI 0.19 and about 99,674 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "55": {
+  "key": "693f332f7e609f60c8e9b81b65b29a7ff13b02ed",
+  "summary": "Puneet Rajkumar averages 39.8 C of summer surface heat, with mean NDVI 0.33 and about 12,920 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "52": {
+  "key": "d1c27d9291d6324847e0a3679953c402d65a88fa",
+  "summary": "Mahalakshimpuram averages 39.8 C of summer surface heat, with mean NDVI 0.34 and about 21,850 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "121": {
+  "key": "c7cfa2b2e9b8f2e97cd3ba7e83bee44a1c29d019",
+  "summary": "Old Thippasandra averages 39.8 C of summer surface heat, with mean NDVI 0.31 and about 72,253 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "23": {
+  "key": "0d4a78311acdd3fe20ccb0919419f383cdc96cde",
+  "summary": "Nelagadderanahalli averages 39.7 C of summer surface heat, with mean NDVI 0.31 and about 47,985 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "101": {
+  "key": "df54bf44b827d298ec7dac75a6de34acc74dffec",
+  "summary": "Kammanahalli averages 39.7 C of summer surface heat, with mean NDVI 0.15 and about 27,882 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "57": {
+  "key": "1f5fd7cea4f755b3513d380c91a779af60d1da1c",
+  "summary": "Shakthi Ganapathi Nagar averages 39.6 C of summer surface heat, with mean NDVI 0.35 and about 10,466 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "56": {
+  "key": "4064baa071fc8f8bd6348e91531487f095bf5a37",
+  "summary": "Shankar Matt averages 39.6 C of summer surface heat, with mean NDVI 0.36 and about 16,820 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "214": {
+  "key": "e18eae224abc4a658f23839db85fcbfa0f75ad68",
+  "summary": "Girinagar averages 39.6 C of summer surface heat, with mean NDVI 0.34 and about 22,537 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "25": {
+  "key": "b66546bc3d99ba229a79bc843919a5030804a048",
+  "summary": "Rajeshwari Nagar averages 39.6 C of summer surface heat, with mean NDVI 0.30 and about 9,383 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "74": {
+  "key": "40010fad8b49c5e6b3a0b5d9e66309dd2b8502b2",
+  "summary": "Kaval Bairasandra averages 39.5 C of summer surface heat, with mean NDVI 0.30 and about 69,745 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "22": {
+  "key": "ded1ef2296060ff8a9e5ac1328bf875a9c3e2eaa",
+  "summary": "Chokkasandra averages 39.4 C of summer surface heat, with mean NDVI 0.37 and about 29,024 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.2 C less surface heat here.",
+  "source": "template"
+ },
+ "73": {
+  "key": "39444ae9c377aed49b71ab05e09c26907d562e7e",
+  "summary": "Jayachamarajendra  Nagar averages 39.3 C of summer surface heat, with mean NDVI 0.33 and about 58,853 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "164": {
+  "key": "3f943b2ae88f14a0e07ad7ce3deacc9c6ee9fd10",
+  "summary": "Avalahalli averages 39.3 C of summer surface heat, with mean NDVI 0.29 and about 29,800 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "58": {
+  "key": "8d6b5bb8f3124df6eb622348b39ed1403e5424b0",
+  "summary": "Vrisabhavathi Nagar averages 39.3 C of summer surface heat, with mean NDVI 0.26 and about 8,692 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "44": {
+  "key": "eff155f37089baaa7d4f24b6554cc49d3eb2cbc4",
+  "summary": "Veera Sindhura Lakshamana averages 39.2 C of summer surface heat, with mean NDVI 0.37 and about 11,045 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.2 C less surface heat here.",
+  "source": "template"
+ },
+ "215": {
+  "key": "c5f6e3dacbc8ebd1df9c2b6ff3fe74ea1c1deb9d",
+  "summary": "Katriguppe averages 39.0 C of summer surface heat, with mean NDVI 0.49 and about 15,357 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "54": {
+  "key": "c139651a45849706ba02a876c239727e54e7d697",
+  "summary": "Jai Maruthinagara averages 38.9 C of summer surface heat, with mean NDVI 0.43 and about 11,207 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "36": {
+  "key": "986a551d9b1587da0296adb9a4483b086588812a",
+  "summary": "Chatrapati Shivaji averages 38.9 C of summer surface heat, with mean NDVI 0.27 and about 36,025 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "50": {
+  "key": "1269214f1a63d8124a9420c1bca4c4f6d4f7c657",
+  "summary": "Marappana Palya averages 38.9 C of summer surface heat, with mean NDVI 0.30 and about 37,640 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "105": {
+  "key": "beba412366dbb931cbae61371b9ffced3ae2deb5",
+  "summary": "Belathur averages 38.8 C of summer surface heat, with mean NDVI 0.36 and about 100,980 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "216": {
+  "key": "c0d7ab0303dac85326a9c438c3f2d21810d3e906",
+  "summary": "Vidyapeeta ward averages 38.7 C of summer surface heat, with mean NDVI 0.44 and about 19,492 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "174": {
+  "key": "d10138990ad1d41d0c7f0b2defb38dcd5554c1a9",
+  "summary": "Vishveshwara Puram averages 38.7 C of summer surface heat, with mean NDVI 0.67 and about 38,604 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "40": {
+  "key": "021815bca08a4c636328b93ecb3ad61898420eaa",
+  "summary": "Veeramadakari averages 38.7 C of summer surface heat, with mean NDVI 0.34 and about 67,961 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "75": {
+  "key": "7e7ad0401b1974bd9dca8544fbb1d562a409daae",
+  "summary": "Kushal Nagar averages 38.6 C of summer surface heat, with mean NDVI 0.28 and about 26,376 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "175": {
+  "key": "54fbfa5c717e2ea956128d11347ea76e683016a2",
+  "summary": "Ashoka Pillar averages 38.6 C of summer surface heat, with mean NDVI 0.60 and about 43,421 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "124": {
+  "key": "7dfcc06323471aeca1ba8eafdc7050ab5f15c649",
+  "summary": "Jeevanbhima Nagar averages 38.6 C of summer surface heat, with mean NDVI 0.30 and about 85,706 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "109": {
+  "key": "6a0a7157d8cb4ef7d22b0fd900be9d918cfe88ed",
+  "summary": "AECS Layout averages 38.5 C of summer surface heat, with mean NDVI 0.40 and about 28,911 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "202": {
+  "key": "5af6bd679edf8f966e0157ddf072ef7534fbe08a",
+  "summary": "Ganesh Mandir ward averages 38.5 C of summer surface heat, with mean NDVI 0.53 and about 32,676 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "207": {
+  "key": "a98954b4b7d295a9d34af57651869f244c28b045",
+  "summary": "Kamakya Nagar averages 38.4 C of summer surface heat, with mean NDVI 0.44 and about 8,586 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "21": {
+  "key": "5d496c00c3cc91deebafa25fb9b811e3ce316798",
+  "summary": "T Dasarahalli averages 38.4 C of summer surface heat, with mean NDVI 0.39 and about 12,845 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "208": {
+  "key": "0fe5509de18f1f6d1e1a73c9131ea484448f3ba8",
+  "summary": "Deen Dayalu Ward averages 38.3 C of summer surface heat, with mean NDVI 0.56 and about 5,526 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "196": {
+  "key": "2be11899ce87d4b296e9dbea940dd7290edbfd28",
+  "summary": "Byrasandra averages 38.3 C of summer surface heat, with mean NDVI 0.63 and about 57,429 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "193": {
+  "key": "bebb7c5902a36f45c8564bea6652050c82b6c7d0",
+  "summary": "N S Palya averages 38.3 C of summer surface heat, with mean NDVI 0.50 and about 19,311 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 2.1 C less surface heat here.",
+  "source": "template"
+ },
+ "148": {
+  "key": "859a86d5b0deb24854af8fe5b243434fa41e837d",
+  "summary": "Govindaraja Nagar averages 38.3 C of summer surface heat, with mean NDVI 0.35 and about 13,789 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "71": {
+  "key": "167c7174ee02884b450467e4a08945b15349d9fc",
+  "summary": "Chamundi Nagara averages 38.3 C of summer surface heat, with mean NDVI 0.28 and about 22,735 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "110": {
+  "key": "d320258250a043dd6411b09520d8317527acf817",
+  "summary": "Whitefield averages 38.2 C of summer surface heat, with mean NDVI 0.31 and about 107,513 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.2 C less surface heat here.",
+  "source": "template"
+ },
+ "100": {
+  "key": "9007ffe9f72be32ffc39d6b8a6f99d50b16b16bf",
+  "summary": "Banasavadi averages 38.0 C of summer surface heat, with mean NDVI 0.33 and about 110,157 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "206": {
+  "key": "708b385062add41d63c8fc0b66e2de61aa42c4ae",
+  "summary": "Padmanabha Nagar averages 38.0 C of summer surface heat, with mean NDVI 0.54 and about 13,206 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.3 C less surface heat here.",
+  "source": "template"
+ },
+ "26": {
+  "key": "24f05a8f18d2498bfe08b3d1a6d77e78f779ab0e",
+  "summary": "Hegganahalli averages 38.0 C of summer surface heat, with mean NDVI 0.39 and about 9,670 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "150": {
+  "key": "25e2dae7c9bd5b400a7b7d82a4f10e056bea6ca8",
+  "summary": "Marenahalli averages 38.0 C of summer surface heat, with mean NDVI 0.45 and about 11,974 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "69": {
+  "key": "b852c14997e190f1fee81aafcad76711a55f4e3b",
+  "summary": "Manorayanapalya averages 37.9 C of summer surface heat, with mean NDVI 0.37 and about 29,798 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "122": {
+  "key": "4bee0ff157b16473c6a111393b069f0c2cf62246",
+  "summary": "New Thippasandra averages 37.9 C of summer surface heat, with mean NDVI 0.26 and about 80,915 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "192": {
+  "key": "c54a701cf3d0b28edcb26948538e2b765e75991b",
+  "summary": "BTM Layout averages 37.7 C of summer surface heat, with mean NDVI 0.40 and about 17,147 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "209": {
+  "key": "ba0c0ccda25db78b9d2f8039d805a26e248e2fa0",
+  "summary": "Hosakerehalli averages 37.7 C of summer surface heat, with mean NDVI 0.50 and about 5,804 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "99": {
+  "key": "e7dfbe12fde0ebaffb6fafe90353b609a83c4135",
+  "summary": "HRBR Layout averages 37.7 C of summer surface heat, with mean NDVI 0.23 and about 68,080 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "62": {
+  "key": "bab0cec0d9dc0d05ecab10e775a4d95170016deb",
+  "summary": "Subramanya Nagar averages 37.5 C of summer surface heat, with mean NDVI 0.46 and about 25,469 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "163": {
+  "key": "ab713726013c64e0e094d82ef0d301281cfeeb3d",
+  "summary": "Veerabhadranagar averages 37.5 C of summer surface heat, with mean NDVI 0.51 and about 16,151 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "45": {
+  "key": "845a3f3b14efdd4e9c7d484190fedbe60a6ebea7",
+  "summary": "Vijayanagara Krishnadevaraya averages 37.5 C of summer surface heat, with mean NDVI 0.42 and about 16,834 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "106": {
+  "key": "03c025d537b72c24a2ed8601857655774d06b1a2",
+  "summary": "Hudi averages 37.5 C of summer surface heat, with mean NDVI 0.33 and about 74,359 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "7": {
+  "key": "073dc70f5d20cd0e172f6ef5d5fd38f99d408e63",
+  "summary": "Thanisandra averages 37.4 C of summer surface heat, with mean NDVI 0.37 and about 78,096 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here.",
+  "source": "template"
+ },
+ "60": {
+  "key": "4c72ffc8098fc09ab504e328cc55c516e0ec4f1a",
+  "summary": "Aramane Nagara averages 37.3 C of summer surface heat, with mean NDVI 0.49 and about 205,733 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.7 C less surface heat here.",
+  "source": "template"
+ },
+ "19": {
+  "key": "8b64bff1810a8c9eb4dff75892f905a0d9daecfc",
+  "summary": "Defence Colony averages 37.3 C of summer surface heat, with mean NDVI 0.35 and about 19,152 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "111": {
+  "key": "c1fb42d1bde7b3f1bbe80e99178d2d8c49e429bf",
+  "summary": "Hagadur averages 37.3 C of summer surface heat, with mean NDVI 0.42 and about 58,141 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "104": {
+  "key": "66fc216e1e374cf94cefb0faadfa319242e637fa",
+  "summary": "Kadugodi averages 37.3 C of summer surface heat, with mean NDVI 0.37 and about 44,548 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "114": {
+  "key": "33a320dc563ca1994e982501ab72a338821ab3e1",
+  "summary": "Marathahalli averages 37.3 C of summer surface heat, with mean NDVI 0.34 and about 41,334 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "95": {
+  "key": "0ef8992bea247042818483fdee0fe0835dc53bfe",
+  "summary": "Nagavara averages 37.2 C of summer surface heat, with mean NDVI 0.47 and about 32,794 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "201": {
+  "key": "7a6130172fe98271b4f62cf12997e4229467c955",
+  "summary": "Umamaheshwara Ward averages 37.2 C of summer surface heat, with mean NDVI 0.58 and about 23,932 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "162": {
+  "key": "9fb5992573b3c25e46e10269e8f0aeb4bd4b705e",
+  "summary": "Gali Anjenaya Temple ward averages 37.1 C of summer surface heat, with mean NDVI 0.42 and about 17,415 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "85": {
+  "key": "3c2c5f6d3f36dca55f646c6e70eafe6bc737d3c0",
+  "summary": "Vijinapura averages 37.1 C of summer surface heat, with mean NDVI 0.41 and about 31,758 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "72": {
+  "key": "22f8b766614d9193c25aed94bf1f623e1b9d527c",
+  "summary": "Ganga Nagar averages 37.0 C of summer surface heat, with mean NDVI 0.42 and about 29,126 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "96": {
+  "key": "cf891dac5e45f246f7809360273982d0b5e76612",
+  "summary": "Kadugondanahalli averages 37.0 C of summer surface heat, with mean NDVI 0.40 and about 40,118 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "92": {
+  "key": "9c5ae8f275059f6dae8878d197c05e3b799e9a1b",
+  "summary": "Vijnana Nagar averages 36.9 C of summer surface heat, with mean NDVI 0.40 and about 51,814 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "93": {
+  "key": "5bef925deffca838d1e6f012cdf6d0b31253b136",
+  "summary": "HAL Airport averages 36.9 C of summer surface heat, with mean NDVI 0.32 and about 162,222 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "204": {
+  "key": "20c1fb99484c39ed1601bbd6e0f3e8aacc5df198",
+  "summary": "Kumaraswamy Layout averages 36.9 C of summer surface heat, with mean NDVI 0.66 and about 9,940 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "152": {
+  "key": "74a398700d38cf8ea39e0f490515dbab6109533d",
+  "summary": "Mudalapalya averages 36.9 C of summer surface heat, with mean NDVI 0.50 and about 4,606 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "20": {
+  "key": "e3260567e8c7f5d4fe38b0efffbb627baebd4344",
+  "summary": "Mallasandra averages 36.8 C of summer surface heat, with mean NDVI 0.35 and about 6,198 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "68": {
+  "key": "7abdbc1bf2e4824e26c6389b5dbf7821e3837c5a",
+  "summary": "Vishwanath Nagenahalli averages 36.8 C of summer surface heat, with mean NDVI 0.44 and about 24,910 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here.",
+  "source": "template"
+ },
+ "149": {
+  "key": "7b31320638a6718ec3d466668423675d17f707c0",
+  "summary": "Kaveripura averages 36.8 C of summer surface heat, with mean NDVI 0.47 and about 10,178 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "38": {
+  "key": "b6a8fb624cf31be49ccca6ddee15b58c96197222",
+  "summary": "J P Park averages 36.6 C of summer surface heat, with mean NDVI 0.40 and about 14,838 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "151": {
+  "key": "abc4ee2a19cba1cbe05e512798886efbaab447c7",
+  "summary": "Maruthi Mandir ward averages 36.5 C of summer surface heat, with mean NDVI 0.39 and about 12,137 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "108": {
+  "key": "d6d7517d7aec94fdadb159c951385da730fb0cd1",
+  "summary": "Dodda Nekkundi averages 36.4 C of summer surface heat, with mean NDVI 0.39 and about 64,729 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "217": {
+  "key": "9909a9d3beb3fedc3c3547f28c7389e415c26c2e",
+  "summary": "Uttarahalli averages 36.4 C of summer surface heat, with mean NDVI 0.51 and about 7,205 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "81": {
+  "key": "690a044f589fd3cc31879d2a4ace019bf41d9959",
+  "summary": "Horamavu averages 36.3 C of summer surface heat, with mean NDVI 0.38 and about 157,715 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "94": {
+  "key": "70c4256b3d743eed0419b50dcfa2e42f7715b5cb",
+  "summary": "Hennur averages 36.3 C of summer surface heat, with mean NDVI 0.32 and about 110,889 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "113": {
+  "key": "ecf9fc3bc71c0725c53cc267a54ab6f522f947c4",
+  "summary": "Munnekollala averages 36.2 C of summer surface heat, with mean NDVI 0.34 and about 48,919 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "16": {
+  "key": "76d0cd54b9aab94911232b4e8047b2d833eaf70a",
+  "summary": "Kammagondanahalli averages 36.2 C of summer surface heat, with mean NDVI 0.41 and about 7,704 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "123": {
+  "key": "483fe8a2a98291084867cb273a6a37fe8639c5db",
+  "summary": "Jalakanteshwara Nagara averages 36.2 C of summer surface heat, with mean NDVI 0.30 and about 24,516 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "197": {
+  "key": "2fee16262faa57b6474f309f46c3a1d163e9e2c7",
+  "summary": "Shakambari Nagar averages 36.2 C of summer surface heat, with mean NDVI 0.62 and about 29,798 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "125": {
+  "key": "4312a255c0b0b02c72d00e888b3fede5fa2606fc",
+  "summary": "Konena Agrahara averages 36.1 C of summer surface heat, with mean NDVI 0.36 and about 28,832 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "161": {
+  "key": "a90c7f1fd8d1dd4791d47e86e7aadc2602fced55",
+  "summary": "Attiguppe averages 36.1 C of summer surface heat, with mean NDVI 0.40 and about 22,763 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "198": {
+  "key": "334575e67fb28d034952af8dfebf13d785ca1eb9",
+  "summary": "J P Nagar averages 36.1 C of summer surface heat, with mean NDVI 0.57 and about 20,104 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.6 C less surface heat here.",
+  "source": "template"
+ },
+ "18": {
+  "key": "483b5344e63036c9cbd593455b294ab58bd267db",
+  "summary": "Bagalakunte averages 36.0 C of summer surface heat, with mean NDVI 0.40 and about 17,255 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "27": {
+  "key": "6b93bc4b718f691368e6363377459cd6d5e8f414",
+  "summary": "Sunkadakatte averages 36.0 C of summer surface heat, with mean NDVI 0.41 and about 3,746 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "46": {
+  "key": "f7313681332b9d78bdd5ecfb64ea691dceda1ab0",
+  "summary": "Sir M. Vishweshwaraiah averages 36.0 C of summer surface heat, with mean NDVI 0.43 and about 15,249 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "91": {
+  "key": "7e3ecc7d094cd25530221320651f7bd85286025f",
+  "summary": "A Narayanapura averages 35.9 C of summer surface heat, with mean NDVI 0.52 and about 29,368 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "205": {
+  "key": "144edab951cd4c947957656284c11720208a9aae",
+  "summary": "Vikram Nagar averages 35.8 C of summer surface heat, with mean NDVI 0.79 and about 10,140 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.4 C less surface heat here.",
+  "source": "template"
+ },
+ "203": {
+  "key": "be3345732e92074df1a51c2281b2b9849b71d9f8",
+  "summary": "Banashankari Temple ward averages 35.8 C of summer surface heat, with mean NDVI 0.69 and about 5,783 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "30": {
+  "key": "b7abc79be25f76e225b8cc6619ae07e5ced390c4",
+  "summary": "Herohalli averages 35.8 C of summer surface heat, with mean NDVI 0.42 and about 5,546 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "84": {
+  "key": "c1628f3abfd9840e4093e516c6fa75751b81f701",
+  "summary": "Ramamurthy Nagara averages 35.7 C of summer surface heat, with mean NDVI 0.40 and about 50,605 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "155": {
+  "key": "34f00f31fc5c4a01330b2d19f329fddcd0aa3bed",
+  "summary": "Nayandahalli averages 35.6 C of summer surface heat, with mean NDVI 0.46 and about 5,609 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "31": {
+  "key": "bc67cd88ed9d002a6a6547c9fd3a92dc7baf5949",
+  "summary": "Doddagollarahatti averages 35.6 C of summer surface heat, with mean NDVI 0.43 and about 16,496 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "6": {
+  "key": "92ac766973b540c4f1ef7e9f2c9335186b7e88fd",
+  "summary": "Kogilu averages 35.5 C of summer surface heat, with mean NDVI 0.42 and about 46,327 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "37": {
+  "key": "cd2fdd4166dfbebeaf99a3e28cc4b05e2a981a57",
+  "summary": "Chanakya averages 35.5 C of summer surface heat, with mean NDVI 0.45 and about 10,299 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "230": {
+  "key": "6237a2f44e112653f9e46d1ee5141ba148700ca4",
+  "summary": "Agara averages 35.5 C of summer surface heat, with mean NDVI 0.47 and about 32,669 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "231": {
+  "key": "86693471a7b21898e44e3ee7dd8c6d2b0b0670eb",
+  "summary": "Mangammanapalya averages 35.5 C of summer surface heat, with mean NDVI 0.63 and about 5,079 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "220": {
+  "key": "772f0703567ac37f00a6ade14ddbc4f587c7acb6",
+  "summary": "Yelachenahalli averages 35.5 C of summer surface heat, with mean NDVI 0.52 and about 7,751 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "82": {
+  "key": "3e202f12bdafb3b8716f7707ee9ffa71359b3262",
+  "summary": "Babusab Palya averages 35.4 C of summer surface heat, with mean NDVI 0.31 and about 75,566 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "39": {
+  "key": "e39ba0275c18d33ec19db848b4cc0bd5f07fbe8d",
+  "summary": "Kanneshwara Rama averages 35.3 C of summer surface heat, with mean NDVI 0.44 and about 15,637 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "83": {
+  "key": "f5b2b14859a7bd3e4b915853ac09b89c9ea253fc",
+  "summary": "Kalkere averages 35.3 C of summer surface heat, with mean NDVI 0.38 and about 100,084 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "88": {
+  "key": "0f1c0876b9cf7a045a01a9d46b42fcd3f92629fb",
+  "summary": "Basavanapura averages 35.2 C of summer surface heat, with mean NDVI 0.39 and about 22,410 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "2": {
+  "key": "b6803321d94cce5bc20c3ae7754c4b1fab55fcf9",
+  "summary": "Chowdeswari Ward averages 35.2 C of summer surface heat, with mean NDVI 0.41 and about 10,869 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "17": {
+  "key": "0c663eb70d9c5f1329d168735cbedf719bf43ad9",
+  "summary": "Shettihalli averages 35.2 C of summer surface heat, with mean NDVI 0.46 and about 19,725 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "61": {
+  "key": "5006569de756ee73158e5b7b0f85eca33d143d78",
+  "summary": "Malleswaram averages 35.2 C of summer surface heat, with mean NDVI 0.54 and about 32,675 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "28": {
+  "key": "b4cc9d26d77a62c93b0dbce494d316a0f68506b3",
+  "summary": "Dodda Bidarakallu averages 35.2 C of summer surface heat, with mean NDVI 0.41 and about 36,499 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "8": {
+  "key": "257a6475238a9c81195f7529fb0bf2355449089c",
+  "summary": "Jakkuru averages 35.1 C of summer surface heat, with mean NDVI 0.50 and about 109,612 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.2 C less surface heat here.",
+  "source": "template"
+ },
+ "29": {
+  "key": "1a9a22f9eaa338335d12790ce3869d2de578ae30",
+  "summary": "Vidyamanyanagar averages 35.0 C of summer surface heat, with mean NDVI 0.47 and about 10,901 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "87": {
+  "key": "8ecf9a385c27c253ddc8bad148bde1a72dc59367",
+  "summary": "Medahalli averages 35.0 C of summer surface heat, with mean NDVI 0.39 and about 14,812 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "107": {
+  "key": "235580d84db00709a95801ae8bcec8c8c2953264",
+  "summary": "Garudachar Playa averages 35.0 C of summer surface heat, with mean NDVI 0.35 and about 15,867 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.4 C less surface heat here.",
+  "source": "template"
+ },
+ "232": {
+  "key": "b3342bbf63589020e76716b4c39a8ff1b4d71977",
+  "summary": "HSR - Singasandra averages 35.0 C of summer surface heat, with mean NDVI 0.58 and about 24,370 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "115": {
+  "key": "0860a29e5661ffa32b7727db3d5ed6b391cfb0ad",
+  "summary": "Bellanduru averages 34.9 C of summer surface heat, with mean NDVI 0.24 and about 101,599 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "70": {
+  "key": "b54c7ada8d3c4adfada7df3fb8d343fe8af874ba",
+  "summary": "Hebbala averages 34.9 C of summer surface heat, with mean NDVI 0.44 and about 32,443 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "116": {
+  "key": "01255998ff85ec56daf2cec42370449704277d9b",
+  "summary": "Doddakanahalli averages 34.8 C of summer surface heat, with mean NDVI 0.42 and about 30,132 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "234": {
+  "key": "c00ce8a1ad5358bfa8e115264ed0edd72c40c935",
+  "summary": "Hongasandra averages 34.5 C of summer surface heat, with mean NDVI 0.56 and about 2,901 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "233": {
+  "key": "4f118bb1af23caa878301f4868a0e3aa2857a289",
+  "summary": "Rupenaagrahara averages 34.5 C of summer surface heat, with mean NDVI 0.56 and about 15,699 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "199": {
+  "key": "100a8215e21e3bf75bae8b05ac0b162d2b286d1a",
+  "summary": "Sarakki averages 34.5 C of summer surface heat, with mean NDVI 0.73 and about 13,100 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "235": {
+  "key": "b72e54716513a31e9fc9b46c339fce310832c1d3",
+  "summary": "Bommanahalli averages 34.5 C of summer surface heat, with mean NDVI 0.56 and about 5,868 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "15": {
+  "key": "6db628be1a06b03cd4049c53639523ec37a515cc",
+  "summary": "Kuvempunagar averages 34.5 C of summer surface heat, with mean NDVI 0.49 and about 12,870 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.9 C less surface heat here.",
+  "source": "template"
+ },
+ "228": {
+  "key": "c1073145cec1dbf4f7236185b4b5d54dd2437454",
+  "summary": "Naganathapura averages 34.5 C of summer surface heat, with mean NDVI 0.54 and about 12,249 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "86": {
+  "key": "e872b9942b7036f487eabaab40da624a1499bd52",
+  "summary": "K R Puram averages 34.4 C of summer surface heat, with mean NDVI 0.37 and about 36,871 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "59": {
+  "key": "2d3cbd0d895686c6868dcc773a9e2973534f0e3c",
+  "summary": "Mattikere averages 34.4 C of summer surface heat, with mean NDVI 0.59 and about 10,112 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "49": {
+  "key": "b58125b512b86b71503a5a6d477552bf7efa94e3",
+  "summary": "Rajarajeshwari Nagar averages 34.2 C of summer surface heat, with mean NDVI 0.61 and about 19,045 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "154": {
+  "key": "b4f37e2d16ebf2049b95b792440350027dacdf75",
+  "summary": "Chandra Layout averages 34.2 C of summer surface heat, with mean NDVI 0.57 and about 10,087 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "90": {
+  "key": "b516c9c72074ed5cee04ab7782024fe5046a7286",
+  "summary": "Mahadevapura averages 34.2 C of summer surface heat, with mean NDVI 0.56 and about 42,509 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "4": {
+  "key": "e5fac0855374d8921ef24fe82eff6922881a9410",
+  "summary": "Atturu Layout averages 34.2 C of summer surface heat, with mean NDVI 0.47 and about 9,559 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "5": {
+  "key": "abe90232f19daa5ec6499354cb35ac798b65598d",
+  "summary": "Yelahanka Satellite Town averages 34.1 C of summer surface heat, with mean NDVI 0.62 and about 5,407 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "66": {
+  "key": "c3ff82a29af272c7c5394076089d7e52c0f5c56b",
+  "summary": "Radhakrishna Temple Ward averages 34.1 C of summer surface heat, with mean NDVI 0.56 and about 26,031 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "229": {
+  "key": "487a8c6ded768cf9e8bbe5b5f8bae1c7faeec041",
+  "summary": "Ibluru averages 34.1 C of summer surface heat, with mean NDVI 0.55 and about 15,150 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "242": {
+  "key": "7329899e5636c3663ed6c3b95a2735be1d74246a",
+  "summary": "Jaraganahalli averages 34.1 C of summer surface heat, with mean NDVI 0.68 and about 4,295 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "3": {
+  "key": "758122b6702236a4100d8f73df5b9b8499e3898b",
+  "summary": "Someshwara Ward averages 34.0 C of summer surface heat, with mean NDVI 0.51 and about 4,386 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.4 C less surface heat here.",
+  "source": "template"
+ },
+ "1": {
+  "key": "5b629a41b40f98d35d039666fde26d2134060fcb",
+  "summary": "Kempegowda Ward averages 34.0 C of summer surface heat, with mean NDVI 0.49 and about 19,801 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "89": {
+  "key": "eec31e033fba9a5a63bb7aedd72341cd59e68537",
+  "summary": "Devasandra averages 33.9 C of summer surface heat, with mean NDVI 0.53 and about 21,245 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "227": {
+  "key": "2852f9869d8a56d942940649ab417806a6c8cb17",
+  "summary": "Begur averages 33.8 C of summer surface heat, with mean NDVI 0.63 and about 19,086 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "67": {
+  "key": "b0c9a02e377281238a126e1162bf353054ea2f87",
+  "summary": "Sanjaya Nagar averages 33.8 C of summer surface heat, with mean NDVI 0.50 and about 57,368 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "112": {
+  "key": "7ddce4b415e56f6517b2025c867b6d9c8c3b8635",
+  "summary": "Varthuru averages 33.8 C of summer surface heat, with mean NDVI 0.42 and about 50,404 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "218": {
+  "key": "4ab154f5bf19ac211339eb1d81cbabaf3a3938f8",
+  "summary": "Subramanyapura averages 33.5 C of summer surface heat, with mean NDVI 0.70 and about 27,230 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 1.0 C less surface heat here.",
+  "source": "template"
+ },
+ "9": {
+  "key": "c48a27eeab9b1808c6be8d077572c603a6311f9e",
+  "summary": "Amrutahalli averages 33.4 C of summer surface heat, with mean NDVI 0.66 and about 37,452 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "219": {
+  "key": "5d1a58859038b654687adb4d786514c25e81120a",
+  "summary": "Vasanthpura averages 33.4 C of summer surface heat, with mean NDVI 0.74 and about 17,235 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.2 C less surface heat here.",
+  "source": "template"
+ },
+ "48": {
+  "key": "685e8821d7c3e2a7b3650cdb05e370e9aea344aa",
+  "summary": "Jnana Bharathi averages 33.3 C of summer surface heat, with mean NDVI 0.64 and about 27,240 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here.",
+  "source": "template"
+ },
+ "153": {
+  "key": "ee18693c2ded54c6170b1cbe7652f9396a96c65a",
+  "summary": "Nagarabhavi averages 33.1 C of summer surface heat, with mean NDVI 0.61 and about 6,974 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.4 C less surface heat here.",
+  "source": "template"
+ },
+ "236": {
+  "key": "6131d94fc02d45a3b00588f3b51e2879ac807bbc",
+  "summary": "Devarachikkanahalli averages 33.0 C of summer surface heat, with mean NDVI 0.65 and about 6,773 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "243": {
+  "key": "98028a9346392e84275c70d4f628dd839bea6492",
+  "summary": "Kudlu averages 33.0 C of summer surface heat, with mean NDVI 0.55 and about 5,156 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "10": {
+  "key": "adec2eac8dae0d7f6202fd568228c9c037662ade",
+  "summary": "Kempapura averages 32.8 C of summer surface heat, with mean NDVI 0.58 and about 58,788 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "47": {
+  "key": "16d90c60785a81c916353a502de6e84673c7d56d",
+  "summary": "Nalvadi Krishnaraja Wadior Park averages 32.7 C of summer surface heat, with mean NDVI 0.61 and about 4,676 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.2 C less surface heat here.",
+  "source": "template"
+ },
+ "237": {
+  "key": "284f9fc0e4a15c5239fb26de20fbca6b9977942d",
+  "summary": "Bilekhalli averages 32.6 C of summer surface heat, with mean NDVI 0.76 and about 23,264 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "241": {
+  "key": "e488cb6be5e2249fb3c950c8b0dd63f8f74faaa4",
+  "summary": "Puttenahalli - Sarakki Lake averages 32.4 C of summer surface heat, with mean NDVI 0.73 and about 6,529 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "13": {
+  "key": "68695256f56cec52dbcfba5fa6912de02385da03",
+  "summary": "Dodda Bommasandra averages 32.4 C of summer surface heat, with mean NDVI 0.65 and about 18,117 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "32": {
+  "key": "f3116acb9cc2c45f269096484461422c80faccd4",
+  "summary": "Ullal averages 32.3 C of summer surface heat, with mean NDVI 0.69 and about 3,759 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "240": {
+  "key": "433c04a44e572c35ff54a7e4c0b4bc13a742edf6",
+  "summary": "Vinayakanagar averages 32.2 C of summer surface heat, with mean NDVI 0.73 and about 10,618 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "14": {
+  "key": "d408dee1caf42877f6dca4bfd88a3fedfb5c8ff1",
+  "summary": "Vidyaranyapura averages 32.2 C of summer surface heat, with mean NDVI 0.59 and about 3,262 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "33": {
+  "key": "3f71fe3aa35d0b0ef381ac147712f2fdb67258b9",
+  "summary": "Kengeri averages 32.2 C of summer surface heat, with mean NDVI 0.76 and about 2,887 residents. Its strongest modelled heat driver is building density (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "35": {
+  "key": "cc4696af7bdbebf0bc03ad7cee8f93651dc90b0d",
+  "summary": "Hemmigepura averages 32.0 C of summer surface heat, with mean NDVI 0.70 and about 40,639 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.3 C less surface heat here.",
+  "source": "template"
+ },
+ "34": {
+  "key": "fd0aae6c58cf79fae5e6b1b8d940246c9600677d",
+  "summary": "Bande Mutt averages 31.9 C of summer surface heat, with mean NDVI 0.74 and about 6,456 residents. Its strongest modelled heat driver is building density (hot), followed by ndbi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "12": {
+  "key": "64b8c5bdb73775f74013bf72cff6a7ae82417f1a",
+  "summary": "Kodigehalli averages 31.8 C of summer surface heat, with mean NDVI 0.75 and about 9,109 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 1.1 C less surface heat here.",
+  "source": "template"
+ },
+ "11": {
+  "key": "cc1042e7f30b6f89416809914565925aaf18f4c5",
+  "summary": "Byatarayanapura averages 31.3 C of summer surface heat, with mean NDVI 0.78 and about 11,487 residents. Its strongest modelled heat driver is ndbi (hot), followed by building density. A +0.1 NDVI greening scenario implies about 0.8 C less surface heat here.",
+  "source": "template"
+ },
+ "222": {
+  "key": "8970ed60d74457299f65a97061bbb0ddcd70d174",
+  "summary": "RBI layout averages 31.2 C of summer surface heat, with mean NDVI 0.77 and about 3,791 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "221": {
+  "key": "7a286dbdd14235f3135df9cf5fb732b4c977f9ce",
+  "summary": "Konanakunte averages 31.1 C of summer surface heat, with mean NDVI 0.84 and about 12,051 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here.",
+  "source": "template"
+ },
+ "238": {
+  "key": "9420e0eb47877ba64a5bc6213df159b4d3adbf77",
+  "summary": "Arakere averages 31.0 C of summer surface heat, with mean NDVI 0.83 and about 4,900 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.7 C less surface heat here.",
+  "source": "template"
+ },
+ "226": {
+  "key": "3103897d61b0fecbddf4fe303304fd40326727f6",
+  "summary": "Kalena Agrahara averages 30.6 C of summer surface heat, with mean NDVI 0.84 and about 6,354 residents. Its strongest modelled heat driver is ndvi (cooling), followed by ndbi. A +0.1 NDVI greening scenario implies about 0.5 C less surface heat here.",
+  "source": "template"
+ },
+ "224": {
+  "key": "064adb42aaa63105b7761a54229fb50dada297e3",
+  "summary": "Anjanapura averages 30.5 C of summer surface heat, with mean NDVI 0.86 and about 6,309 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ },
+ "239": {
+  "key": "0cb1b54c71c21f5a90d90e9267b9843a8c67e9c2",
+  "summary": "Hulimavu averages 30.4 C of summer surface heat, with mean NDVI 0.84 and about 3,716 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 0.6 C less surface heat here.",
+  "source": "template"
+ },
+ "223": {
+  "key": "f126c787fe25d41778013f7438957b2143a75056",
+  "summary": "Chunchaghatta averages 30.2 C of summer surface heat, with mean NDVI 0.85 and about 1,917 residents. Its strongest modelled heat driver is ndvi (cooling), followed by building density. A +0.1 NDVI greening scenario implies about 0.1 C less surface heat here.",
+  "source": "template"
+ },
+ "225": {
+  "key": "6d77d33addac34d6dcd545fe8c645238acd1bd87",
+  "summary": "Gottigere averages 30.1 C of summer surface heat, with mean NDVI 0.87 and about 1,914 residents. Its strongest modelled heat driver is ndbi (hot), followed by ndvi. A +0.1 NDVI greening scenario implies about 1.3 C less surface heat here (city-wide slope used: this ward's own sample was too small or too noisy).",
+  "source": "template"
+ }
+}
