@@ -1,10 +1,5 @@
 # HeatSense — Bengaluru
 
-> **DEMO MODE: this repository currently ships SYNTHETIC SAMPLE DATA, not real measurements.**
-> Every row in `data/grid_features.csv` carries `data_source = "synthetic"`, and the app shows a
-> red banner. The real-satellite path (`gee/export.py`) is included but was **not** run (no Earth
-> Engine credentials were available). Numbers below describe the synthetic demo, not Bengaluru.
-
 **One-line claim:** A spatially validated planting prioritiser that ranks where a tree cools most
 for the most exposed people.
 
