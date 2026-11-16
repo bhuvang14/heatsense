@@ -34,7 +34,7 @@ LST is surface heat, not felt heat. Cooling estimates are correlational, not fie
 ```bash
 python3.12 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt      # macOS: `brew install libomp` first if xgboost import fails
+pip install -r requirements.txt      
 ./run_all.sh                         # generates data + trains model + writes GeoJSON/JSON
 python app/app.py                    # http://localhost:5000
 ```
